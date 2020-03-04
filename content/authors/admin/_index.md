@@ -75,4 +75,4 @@ I am a Master's student at Fachhochschule Südwestfalen, currently doing Master 
 
 I am working as a research assistant in an Automation technology Lab, developing algorithms deep learning and machine learning algorithms for condition monitoring and predictive maintenance for Industry 4.0.
 
-I am proficient in Data Analysis and Visualization, Machine Learning and Deep Learning.
+I am proficient in Deep Learning, Machine Learning, Data Analysis and Visualization.
