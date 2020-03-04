@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Naga Sai Pranay modukuru
+name: Naga Sai Pranay Modukuru
 
 # Username (this should match the folder name)
 authors:
@@ -28,12 +28,12 @@ interests:
 
 education:
   courses:
-  - course: MSc in Systems Engineering and Engineering Management
+  - course: M.Sc. in Systems Engineering and Engineering Management
     institution: Fachhochschule Südwestfalen
-    year: 2020
+    #year: 2020
   - course: B.Tech in Electrical and Electronics Engineering
     institution: Jawaharlal Nehru Technological University
-    year: 2017
+    #year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -73,6 +73,6 @@ user_groups:
 
 I am a Master's student at Fachhochschule Südwestfalen, currently doing Master Thesis in the field of Deep Learning.
 
-I am working as a research assistant in an Automation technology Lab. I am developing algorithms for Condition Monitoring and Predictive Maintenance with Deep learning and Machine learning.
+I am working as a research assistant in an Automation technology Lab, developing algorithms deep learning and machine learning algorithms for condition monitoring and predictive maintenance for Industry 4.0.
 
 I am proficient in Data Analysis and Visualization, Machine Learning and Deep Learning.
