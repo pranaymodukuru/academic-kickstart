@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: ["concrete-compressive-strength"]
 ---
-
+Photo by Ricardo [Gomez Angel](https://unsplash.com/@ripato) on [Unsplash](https://unsplash.com/)
 
 ## Concrete Compressive Strength
 

@@ -21,10 +21,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Deep Learning Specialization"
   url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/59VZWYR4C6Z2"
-  date_start = "2020-02-02"
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/UUT8DD3CJ6WF"
+  date_start = "2020-03-28"
   date_end = ""
   description = ""
 

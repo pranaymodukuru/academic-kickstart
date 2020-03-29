@@ -71,8 +71,9 @@ user_groups:
 - Visitors
 ---
 
-I am a Master's student at Fachhochschule Südwestfalen, currently doing Master Thesis in the field of Deep Learning.
 
-I am working as a research assistant in the field Automation Technology, developing deep learning and machine learning algorithms for condition monitoring and predictive maintenance for Industry 4.0.
+I am an Electrical and Electronics Graduate currently doing my Master's in Systems Engineering and Engineering Management at Fachhochschule Südwestfalen, with a special focus on applications of Machine Learning in Industrial Automation.
 
-I am proficient in Deep Learning, Machine Learning, Data Analysis and Visualization.
+My Master Thesis is focussed on developing a novel Regularization Algorithm for Multi-Task Lifelong Learning in Deep Neural Networks. Additionally, I am working as a Research Assistant and have a vast experience in devising algorithms for Condition Monitoring, Predictive Maintenance and Computer Vision.
+
+I am proficient in Deep Learning, Machine Learning, Data Analysis and Visualization. I am passionate about research involving Deep Learning, Computer Vision and Artificial Intelligence.
