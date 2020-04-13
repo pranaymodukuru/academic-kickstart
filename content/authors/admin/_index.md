@@ -22,9 +22,10 @@ bio: My research interests include Deep learning, Machine Learning for Industry 
 
 interests:
 - Deep Learning
-- Artificial Intelligence
 - Machine learning
 - Data Science
+- Artificial Intelligence
+
 
 education:
   courses:
@@ -33,6 +34,9 @@ education:
     #year: 2020
   - course: B.Tech in Electrical and Electronics Engineering
     institution: Jawaharlal Nehru Technological University
+    #year: 2017
+  - course: Machine Learning Engineer Nanodegree
+    institution: Udacity
     #year: 2017
 
 # Social/Academic Networking
@@ -49,6 +53,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/pranaymodukuru
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@pranaymns
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/pranaymns
