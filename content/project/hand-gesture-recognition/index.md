@@ -23,7 +23,8 @@ links:
   icon_pack: fab
   name: Connect
   url: https://www.linkedin.com/in/pranaymodukuru/
-url_code: "https://github.com/pranaymodukuru/Hand-gesture-detection/blob/master/HandGestureRecognitionCNN.ipynb"
+  
+url_code: "https://github.com/pranaymodukuru/Hand-gesture-detection"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -47,4 +48,6 @@ In this project, I collected hand gesture images from my laptop's webcam and tra
 
 My future plan is to use the trained CNN in a game, to predict the hand gestures in real-time.
 
-Check out the project on [github](https://github.com/pranaymodukuru/Hand-gesture-detection/blob/master/HandGestureRecognitionCNN.ipynb).
+#### Please click on links below for more details
+* [Project](https://github.com/pranaymodukuru/Hand-gesture-detection)
+* [Code](https://github.com/pranaymodukuru/Hand-gesture-detection/blob/master/HandGestureRecognitionCNN.ipynb)

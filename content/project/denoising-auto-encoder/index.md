@@ -25,7 +25,7 @@ links:
   icon_pack: fab
   name: Connect
   url: https://www.linkedin.com/in/pranaymodukuru/
-url_code: "https://github.com/pranaymodukuru/DenoisingAutoencoder/blob/master/DenoisingAutoEncoder_NoisyOfficeData.ipynb"
+url_code: "https://github.com/pranaymodukuru/DenoisingAutoencoder"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -38,9 +38,8 @@ url_video: ""
 # slides: example
 ---
 
+Removing noise from images has been a reasonably tough task until the deep learning based auto encoders transformed the image processing field. I used a Deep Convolutional Autoencoder to remove coffe stains, footprints, marks resulting from folding or wrinkles from scanned office documents.
 
-Deep Learning has transformed many domains such as Image Processing, Computer Vision, Natural Language Processing. Removing noise from images has been a reasonably tough task until the deep learning based auto encoders transformed the image processing field.
-
-I used a Deep Convolutional Autoencoder to remove coffe stains, footprints, marks resulting from folding or wrinkles from scanned office documents.
-
-Check out the project on [github](https://github.com/pranaymodukuru/DenoisingAutoencoder/blob/master/DenoisingAutoEncoder_NoisyOfficeData.ipynb).
+#### Please click on links below for more details
+* [Project](https://github.com/pranaymodukuru/DenoisingAutoencoder)
+* [Code](https://github.com/pranaymodukuru/DenoisingAutoencoder/blob/master/DenoisingAutoEncoder_NoisyOfficeData.ipynb)
