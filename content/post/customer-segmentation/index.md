@@ -27,6 +27,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: ["customer-segmentation-acquisition"]
 ---
+Image [Source](https://www.liveagent.com/academy/customer-segmentation/)
+
+
 ## Introduction
 
 This blog post is about the final project that I did in Udacity's Machine Learning Engineer Nanodegree program. This project is based on real-world data provided by Arvato Financial Solutions. The task is to understand the customer segments of a mail order company which sells organic products, and compare these segments with the general population data to predict future probable customers.
