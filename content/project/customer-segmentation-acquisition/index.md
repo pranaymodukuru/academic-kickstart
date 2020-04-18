@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Photo by [Stefano Alemani](https://unsplash.com/@stefano75?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)"
   focal_point: ""
   preview_only: false
 
@@ -43,8 +43,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Image [Source](https://www.liveagent.com/academy/customer-segmentation/)
-
 
 ### Project Overview
 

@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Photo by Ricardo [Gomez Angel](https://unsplash.com/@ripato) on [Unsplash](https://unsplash.com/)"
   focal_point: ""
   preview_only: false
 
@@ -27,7 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: ["concrete-compressive-strength"]
 ---
-Photo by Ricardo [Gomez Angel](https://unsplash.com/@ripato) on [Unsplash](https://unsplash.com/)
 
 ## Concrete Compressive Strength
 

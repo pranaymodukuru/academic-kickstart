@@ -11,8 +11,8 @@ date: "2020-03-09"
 external_link: ""
 
 image:
-  caption:
-  # focal_point: Smart
+  caption: "Photo by Ricardo [Gomez Angel](https://unsplash.com/@ripato) on [Unsplash](https://unsplash.com/)"
+  focal_point: Smart
 
 links:
 - icon: twitter
@@ -36,7 +36,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Photo by Ricardo [Gomez Angel](https://unsplash.com/@ripato) on [Unsplash](https://unsplash.com/)
+
 
 ## Concrete Compressive Strength Prediction using Machine Learning
 
