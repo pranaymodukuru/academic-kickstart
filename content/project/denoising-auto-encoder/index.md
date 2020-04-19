@@ -10,7 +10,7 @@ tags:
 date: "2019-12-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/pranaymodukuru/DenoisingAutoencoder"
 
 image:
   caption:

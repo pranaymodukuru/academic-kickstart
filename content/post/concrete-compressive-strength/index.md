@@ -12,6 +12,9 @@ lastmod: 2020-03-05T01:53:52+01:00
 featured: false
 draft: false
 
+# Optional external URL for project (replaces project detail page).
+external_link: "https://towardsdatascience.com/concrete-compressive-strength-prediction-using-machine-learning-4a531b3c43f3?source=friends_link&sk=e1734fbde495aea664a85a1daa903881"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -28,7 +31,9 @@ image:
 projects: ["concrete-compressive-strength"]
 ---
 
-## Concrete Compressive Strength
+[View post](https://towardsdatascience.com/concrete-compressive-strength-prediction-using-machine-learning-4a531b3c43f3?source=friends_link&sk=e1734fbde495aea664a85a1daa903881) on Medium.
+
+<!-- ## Concrete Compressive Strength
 
 The Compressive Strength of Concrete determines the quality of Concrete. This is generally determined by a standard crushing test on a concrete cylinder. This requires engineers to build small concrete cylinders with different combinations of raw materials and test these cylinders for strength variations with a change in each raw material. The recommended wait time for testing the cylinder is 28 days to ensure correct results. This consumes a lot of time and requires lot of labour to prepare different prototypes and test them. Also, this method is prone to human error and one small mistake can cause the wait time to drastically increase.
 
@@ -45,7 +50,7 @@ start analysing.
 
 Lets check the correlations between the input features, this will give an idea about how each variable is affecting all other variables. This can be done by calculating Pearson correlations between the features as shown in the code below.
 
-<!-- **Note** - Complete code used for generating plots (titles, axes labels, etc.) is not shown here for simplicity. The complete code can be viewed [here](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/ConcreteCompressiveStrengthPrediction.ipynb). -->
+**Note** - Complete code used for generating plots (titles, axes labels, etc.) is not shown here for simplicity. The complete code can be viewed [here](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/ConcreteCompressiveStrengthPrediction.ipynb).
 
 ```python
 corr = data.corr()
@@ -373,4 +378,4 @@ We have analysed the Compressive Strength Data and used Machine Learning to pred
 
 1. I-Cheng Yeh, "[Modeling of strength of high performance concrete using artificial neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0008884698001653)," Cement and Concrete Research, Vol. 28, No. 12, pp. 1797-1808 (1998).
 2. Ahsanul Kabir, Md Monjurul Hasan, Khasro Miah, "[Strength Prediction Model for Concrete](https://www.researchgate.net/publication/258255660_Strength_Prediction_Model_for_Concrete)", ACEE Int. J. on Civil and Environmental Engineering, Vol. 2, No. 1, Aug 2013.
-3. https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
+3. https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength -->

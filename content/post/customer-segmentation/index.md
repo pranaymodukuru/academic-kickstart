@@ -12,6 +12,9 @@ lastmod: 2020-04-16T16:45:57+02:00
 featured: true
 draft: false
 
+# Optional external URL for project (replaces project detail page).
+external_link: "https://towardsdatascience.com/customer-segmentation-and-acquisition-using-machine-learning-a219ce0ec139?source=friends_link&sk=c7d662b4806a9e984f591d961e8d01e4"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -28,7 +31,9 @@ image:
 projects: ["customer-segmentation-acquisition"]
 ---
 
-## Introduction
+[View post](https://towardsdatascience.com/customer-segmentation-and-acquisition-using-machine-learning-a219ce0ec139?source=friends_link&sk=c7d662b4806a9e984f591d961e8d01e4) on Medium.
+
+<!-- ## Introduction
 
 This blog post is about the final project that I did in Udacity’s Machine Learning Engineer Nanodegree program. This project is based on real-world data provided by Arvato Financial Solutions. The task is to understand the customer segments of a mail-order company which sells organic products and compare these segments with the general population data to predict probable future customers.
 
@@ -158,4 +163,4 @@ Finally, I would like to thank Arvato Financial Solutions and Udacity for provid
 2. https://blog.alexa.com/types-of-market-segmentation/
 3. https://clevertap.com/blog/customer-segmentation-examples-for-better-mobile-marketing/
 4. https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/
-5. https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba
+5. https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba -->

@@ -8,7 +8,7 @@ tags:
 date: "2020-03-09"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/pranaymodukuru/Concrete-compressive-strength"
 
 image:
   caption: "Photo by Ricardo [Gomez Angel](https://unsplash.com/@ripato) on [Unsplash](https://unsplash.com/)"

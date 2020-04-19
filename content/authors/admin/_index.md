@@ -79,7 +79,7 @@ user_groups:
 ---
 
 
-I am an Electrical and Electronics Graduate currently doing my Master's in Systems Engineering and Engineering Management at Fachhochschule Südwestfalen, with a special focus on applications of Machine Learning in Industrial Automation.
+I am an Electrical and Electronics Graduate, currently doing my Master's in Systems Engineering and Engineering Management, with a special focus on applications of Machine Learning in Industrial Automation.
 
 My Master Thesis is focussed on developing a novel Regularization Algorithm for Multi-Task Lifelong Learning in Deep Neural Networks. Additionally, I am working as a Research Assistant and have a vast experience in devising algorithms for Condition Monitoring, Predictive Maintenance and Computer Vision.
 

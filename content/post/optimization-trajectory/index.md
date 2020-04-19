@@ -12,6 +12,10 @@ lastmod: 2020-03-05T01:53:52+01:00
 featured: false
 draft: false
 
+
+# Optional external URL for project (replaces project detail page).
+external_link: "https://medium.com/datadriveninvestor/effect-of-initialization-on-optimization-trajectory-129746a2bb9d?source=friends_link&sk=918a3508f94da3e3da25b5b2eaf52356"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -28,8 +32,10 @@ image:
 projects: []
 ---
 
+[View post](https://medium.com/datadriveninvestor/effect-of-initialization-on-optimization-trajectory-129746a2bb9d?source=friends_link&sk=918a3508f94da3e3da25b5b2eaf52356) on Medium.
 
-### The Optimization Problem
+
+<!-- ### The Optimization Problem
 In simple words, finding a minimum value for a given equation is considered as optimization. This has many applications in real life - finding the fastest path when traveling from one place to other, job shop scheduling, air traffic management etc,. The optimization has been the back bone of machine learning, where the algorithms are expected to extract knowledge from huge volumes of data.
 
 Optimization plays a major role Neural Networks where there are millions of parameters and the goal is to find the right set of parameters to correctly represent the data. There has been a lot of research in this field and many algorithms have been developed for effective optimization. Even though the performance of the optimizer has improved a lot, there is another problem that the optimization depends upon i.e. the initial point. The trajectory of optimization is largely dependant on the initialisation. This has been studied and numerous initialization techniques have been proposed to effectively exploit the power of optimization algorithms.
@@ -283,4 +289,4 @@ Although we are not tuning the hyperparameters here, we can effectively drive th
 3. http://benchmarkfcns.xyz/benchmarkfcns/bealefcn.html
 4. https://ruder.io/optimizing-gradient-descent/
 5. http://louistiao.me/notes/visualizing-and-animating-optimization-algorithms-with-matplotlib/
-6. https://communities.sas.com/t5/SAS-Communities-Library/Mathematical-Optimization-in-our-Daily-Lives/ta-p/504724#
+6. https://communities.sas.com/t5/SAS-Communities-Library/Mathematical-Optimization-in-our-Daily-Lives/ta-p/504724# -->

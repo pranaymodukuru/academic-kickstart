@@ -9,7 +9,7 @@ tags:
 date: "2019-10-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/pranaymodukuru/PMSM_Rotor_Temp_Prediction"
 
 image:
   caption:

@@ -8,7 +8,7 @@ tags:
 date: "2019-12-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/pranaymodukuru/Hand-gesture-detection"
 
 image:
   caption:
@@ -23,7 +23,7 @@ links:
   icon_pack: fab
   name: Connect
   url: https://www.linkedin.com/in/pranaymodukuru/
-  
+
 url_code: "https://github.com/pranaymodukuru/Hand-gesture-detection"
 url_pdf: ""
 url_slides: ""

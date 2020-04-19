@@ -9,7 +9,7 @@ categories: []
 date: 2020-04-13T12:50:14+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/pranaymodukuru/Bertelsmann-Arvato-customer-segmentation"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
